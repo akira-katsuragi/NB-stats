@@ -1,0 +1,4 @@
+Newcomb-Benford Stats (v1.1.1), ¸2018 Garth Santor
+==================================================
+Enter white-space separated real numbers. Terminate input with ^Z
+Data set is empty!
